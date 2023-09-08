@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica Moreira</h1>
-<h3 align="center">Apaixonada por ciência de Análise de dados</h3>
+<h3 align="center">Apaixonada por Análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python,Excel,Power BI,SQL e Google Sheet.**
 
