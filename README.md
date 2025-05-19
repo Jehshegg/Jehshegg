@@ -12,6 +12,25 @@
   <img src="https://github.com/Jehshegg/Jehshegg/blob/main/Banner.gif" alt="animated" />
 </p>
 
+### 👋 Olá! Eu sou a **Jéssica Moreira**
+
+* 🎓 **Graduanda em Ciência da Computação** (FAM • conclusão 2025)
+* 📊 **Estagiária de Data Analytics** no PayPal • transformo dados brutos em insights que otimizam operações e previnem desvios
+* 📈 20 % menos tempo de análise operacional graças a dashboards de KPIs em Power BI e automação de relatórios em VBA/Excel
+* 💬 +4 anos de experiência em atendimento ao cliente (FinTech & Viagens) ⇒ visão centrada no usuário e comunicação clara
+* 🌐 **Stack favorita:** Python • SQL (MySQL/SQL Server) • Power BI • Excel • Pandas • NumPy • Scikit-learn • Plotly • Looker • VS Code
+* ☁️ Explorando: PySpark • Databricks • AWS • Azure • Docker
+* 🛠️ Certificações recentes: MongoDB, Engenharia de Dados com Databricks, Data Viz em Python, SQL avançado
+* 🌎 Inglês avançado | 🇧🇷 Nativa PT-BR
+
+**O que me motiva?** Contar boas histórias com dados, criar automações que economizam horas de trabalho e construir pipelines robustos que escalam junto com o negócio.
+
+> “Sem dados você é só mais uma pessoa com opinião.” — W. Edwards Deming
+
+**Vamos conectar?**
+[LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-moreira-24556b168/) • [Kaggle](https://www.kaggle.com/jmmoreira22) • ✉️ [jmmoreira22@gmail.com](mailto:jmmoreira22@gmail.com)
+
+
 ## 🚀 **Linguagens e Ferramentas**
 
 #### 💻 Uso diário
