@@ -55,3 +55,28 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
+<b> :chart_with_upwards_trend: Estatísticas</b>
+
+<a href="https://github.com/Jehshegg">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jehshegg&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/Jehshegg">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jehshegg&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+<br />
+
+<b> ⚡ Principais Repositórios</b>
+
+<a href="https://github.com/Jehshegg/Visualize-o-poder-das-intercepta-es-na-NFL-2023">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jehshegg&repo=Visualize-o-poder-das-intercepta-es-na-NFL-2023&theme=dark"/>
+</a>
+
+<a href="https://github.com/Jehshegg/Previsao-de-Precos-de-Carros">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jehshegg&repo=Previsao-de-Precos-de-Carros&theme=dark"/>
+</a>
+
