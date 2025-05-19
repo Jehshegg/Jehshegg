@@ -28,7 +28,7 @@
 > “Sem dados você é só mais uma pessoa com opinião.” — W. Edwards Deming
 
 **Vamos conectar?**
-[LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-moreira-24556b168/) • [Kaggle](https://www.kaggle.com/jmmoreira22) • ✉️ [jmmoreira22@gmail.com](mailto:jmmoreira22@gmail.com)
+
 
 
 ## 🚀 **Linguagens e Ferramentas**
