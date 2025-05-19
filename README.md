@@ -1,36 +1,23 @@
 ### "Cada dia é uma chance pra ser melhor que ontem" 😉
 
 
-<!-- LinkedIn -->
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%A9ssica-moreira-24556b168/)](https://www.linkedin.com/in/j%C3%A9ssica-moreira-24556b168/)
+<!-- LINKS DE CONTATO -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-moreira-24556b168/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmmoreira22@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jmmoreira22)
 
-<!-- E-mail -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:jmmoreira22@gmail.com)](mailto:jmmoreira22@gmail.com)
+---
 
-<!-- Kaggle -->
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/jmmoreira22)](https://www.kaggle.com/jmmoreira22)
+## 🚀 **Linguagens e Ferramentas**
 
+#### 💻 Uso diário
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
- ## 🚀 **Linguagens e Ferramentas:**
-
- #### 💻 Uso diário:
-<!---- Python -->
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-
-<!---- MySQL -->
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-
-<!---- Looker -->
-![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white&style=for-the-badge)
-
-<!---- Excel -->
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-
-<!---- VS Code -->
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
