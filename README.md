@@ -31,6 +31,21 @@
 
 
 
+
+👋 Hi! I’m Jéssica Moreira
+🎓 B.S. candidate in Computer Science (FAM • graduating 2025)
+📊 Data Analytics Intern at PayPal • turning raw data into insights that streamline operations and prevent anomalies
+📈 20 % reduction in operational analysis time through KPI dashboards in Power BI and automated VBA/Excel reports
+💬 4+ years’ experience in customer service (FinTech & Travel) ⇒ user-centric mindset and clear communication
+🌐 Favorite stack: Python • SQL (MySQL/SQL Server) • Power BI • Excel • Pandas • NumPy • Scikit-learn • Plotly • Looker • VS Code
+☁️ Currently exploring: PySpark • Databricks • AWS • Azure • Docker
+🛠️ Recent certifications: MongoDB, Data Engineering with Databricks, Data Viz in Python, Advanced SQL
+🌎 Advanced English | 🇧🇷 Native Brazilian Portuguese
+What drives me? Telling great stories with data, building automations that save hours of work, and crafting robust pipelines that scale with the business.
+
+“Without data you’re just another person with an opinion.” — W. Edwards Deming
+
+
 ## 🚀 **Linguagens e Ferramentas**
 
 #### 💻 Uso diário
