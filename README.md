@@ -57,7 +57,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-
 <b> :chart_with_upwards_trend: Estatísticas</b>
 
 <a href="https://github.com/Jehshegg">
@@ -72,11 +71,11 @@
 
 <b> ⚡ Principais Repositórios</b>
 
-<a href="https://github.com/Jehshegg/Visualize-o-poder-das-intercepta-es-na-NFL-2023">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jehshegg&repo=Visualize-o-poder-das-intercepta-es-na-NFL-2023&theme=dark"/>
+<a href="https://github.com/Jehshegg/EngenhariadeDados">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jehshegg&repo=EngenhariadeDados&theme=dark"/>
 </a>
 
-<a href="https://github.com/Jehshegg/Previsao-de-Precos-de-Carros">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jehshegg&repo=Previsao-de-Precos-de-Carros&theme=dark"/>
+<a href="https://github.com/Jehshegg/DataScience">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Jehshegg&repo=DataScience&theme=dark"/>
 </a>
 
