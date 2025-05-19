@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Jehshegg/Jehshegg/blob/main/Banner.gif" alt="animated" />
+</p>
+
 ## 🚀 **Linguagens e Ferramentas**
 
 #### 💻 Uso diário
