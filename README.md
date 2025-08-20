@@ -14,7 +14,7 @@
 
 ### 👋 Olá! Eu sou a **Jéssica Moreira**
 
-* 🎓 **Graduanda em Ciência da Computação** (FAM • conclusão 2025)
+* 🎓 **Graduanda em Ciência da Computação** (FAM • conclusão 2026)
 * 📊 **Estagiária de Data Analytics** no PayPal • transformo dados brutos em insights que otimizam operações e previnem desvios
 * 📈 20 % menos tempo de análise operacional graças a dashboards de KPIs em Power BI e automação de relatórios em VBA/Excel
 * 💬 +4 anos de experiência em atendimento ao cliente (FinTech & Viagens) ⇒ visão centrada no usuário e comunicação clara
