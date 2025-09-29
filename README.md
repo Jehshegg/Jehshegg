@@ -33,7 +33,7 @@
 
 
 👋 Hi! I’m Jéssica Moreira
-🎓 B.S. candidate in Computer Science (FAM • graduating 2025)
+🎓 B.S. candidate in Computer Science (FAM • graduating 2026)
 📊 Data Analytics Intern at PayPal • turning raw data into insights that streamline operations and prevent anomalies
 📈 20 % reduction in operational analysis time through KPI dashboards in Power BI and automated VBA/Excel reports
 💬 4+ years’ experience in customer service (FinTech & Travel) ⇒ user-centric mindset and clear communication
